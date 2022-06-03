@@ -16,3 +16,6 @@ DELETE /order/:id: Essa rota deve deletar um pedido já feito com o id enviado n
 GET /order/:id: Essa rota recebe o id nos parâmetros e deve retornar um pedido específico.
 
 PATCH /order/:id: Essa rota recebe o id nos parâmetros e assim que ela for chamada, deve alterar o status do pedido recebido pelo id para "Pronto".
+
+<img src="./01.png" alt="">
+<img src="./02.png" alt="">
